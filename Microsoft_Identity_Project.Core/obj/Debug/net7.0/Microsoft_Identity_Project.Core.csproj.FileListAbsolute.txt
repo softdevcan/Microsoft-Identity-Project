@@ -1,0 +1,11 @@
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\bin\Debug\net7.0\Microsoft_Identity_Project.Core.deps.json
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\bin\Debug\net7.0\Microsoft_Identity_Project.Core.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\bin\Debug\net7.0\Microsoft_Identity_Project.Core.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.AssemblyInfoInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.AssemblyInfo.cs
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\refint\Microsoft_Identity_Project.Core.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\Microsoft_Identity_Project.Core.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Core\obj\Debug\net7.0\ref\Microsoft_Identity_Project.Core.dll

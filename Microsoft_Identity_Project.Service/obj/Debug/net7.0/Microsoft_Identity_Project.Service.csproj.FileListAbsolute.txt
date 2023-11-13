@@ -1,0 +1,17 @@
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Service.deps.json
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Service.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Service.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Core.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\bin\Debug\net7.0\Microsoft_Identity_Project.Core.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.csproj.AssemblyReference.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.AssemblyInfoInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.AssemblyInfo.cs
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.csproj.CopyComplete
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\refint\Microsoft_Identity_Project.Service.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\Microsoft_Identity_Project.Service.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Service\obj\Debug\net7.0\ref\Microsoft_Identity_Project.Service.dll

@@ -1,0 +1,17 @@
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.deps.json
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.runtimeconfig.json
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Repository.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Core.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\bin\Debug\net7.0\Microsoft_Identity_Project.Core.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.csproj.AssemblyReference.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.AssemblyInfoInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.AssemblyInfo.cs
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.csproj.CoreCompileInputs.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.csproj.CopyComplete
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\refint\Microsoft_Identity_Project.Repository.dll
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.pdb
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\Microsoft_Identity_Project.Repository.genruntimeconfig.cache
+C:\Users\cakyildirim\source\myprojects\Microsoft_Identity_Project\Microsoft_Identity_Project.Repository\obj\Debug\net7.0\ref\Microsoft_Identity_Project.Repository.dll

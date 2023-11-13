@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "ConfirmEmail";
+}
+@model ConfirmMailViewModel
+
+<div class="container">
+    <form method="post">
+        <h2>Confirm Your Mail</h2>
+        <label>User Email Address</label>
+        <input type="text" class="form-control" asp-for="Mail" value="@ViewBag.v"/> 
+        <label>Enter the 6-digit code sent to your e-mail address :</label>
+        <input type="text" class="form-control" asp-for="ConfirmCode"/>
+        <button class="btn btn-primary">Activate Account</button>
+    </form>
+</div>
