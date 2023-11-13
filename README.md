@@ -1,6 +1,5 @@
-# MyAspNetCoreIdentityProject
+# My AspNetCore Identity Project
 
-# MyAspNetCoreIdentityProject
 
 MyAspNetCoreIdentityProject is a web project built with ASP.NET Core and Microsoft Identity. This project includes basic features such as user account management, role management, email confirmation, and password reset.
 
